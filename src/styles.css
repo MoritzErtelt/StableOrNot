@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light;
   --bg: #f7f3e8;
   --panel: #fffaf0;
   --text: #181716;
@@ -17,6 +18,11 @@
 
 * {
   box-sizing: border-box;
+}
+
+html,
+body {
+  color-scheme: light;
 }
 
 body {
@@ -58,6 +64,7 @@ button:hover {
 }
 
 .app {
+  color-scheme: light;
   min-height: 100vh;
 }
 
