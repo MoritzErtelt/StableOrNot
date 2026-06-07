@@ -1,0 +1,23 @@
+[
+  {
+    "item_id": "rocklin_batch2_100004",
+    "structure_url": "/structures/rocklin_batch2_100004.cif.gz",
+    "sequence": "ELKKLQAWFNDPVAKEKRKEFVENFKYVFTTFLKWGKRLVVDGIAKPFNQLINGKTFGEKLQGLGKLVLGLSALTVLL",
+    "length_aa": 78,
+    "fold_class": "alpha_beta",
+    "dg_true": 4.044,
+    "dg_bin": 5,
+    "predictions": {
+      "sota_name": "ESM3CΔG",
+      "sota_dg": 4.078,
+      "secondary_name": "SaProtΔG",
+      "secondary_dg": 3.848,
+      "baseline_name": "Hydrophobic baseline",
+      "baseline_dg": 2.891
+    },
+    "display": {
+      "default_view": "cartoon",
+      "default_camera": null
+    }
+  }
+]
